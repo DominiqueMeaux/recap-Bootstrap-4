@@ -1,0 +1,35 @@
+/* Général */
+html{
+    font-size: 10px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: #f1f1f1;
+}
+
+/* Header */
+
+header{
+    background: url('img/headerImg.jpg');
+    background-size: cover;
+    height: 80vh;
+}
+
+.text-intro{
+    padding-top: 30rem;
+    padding-bottom: 20rem;
+}
+
+.preTxt{
+    font-size: 4rem;
+}
+
+h1{
+    font-size: 9rem;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 700;
+}
